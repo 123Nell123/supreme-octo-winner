@@ -1,6 +1,9 @@
 # supreme-octo-winner
-huhovyucyu
-jbjbi
-modification apportee ce jour
 
-coe ini
+$ git config --list
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
+
+
