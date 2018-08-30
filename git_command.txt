@@ -15,3 +15,16 @@ $ git remote -v
 $ git status
 
 $ git fetch
+
+$ git commit -m "master seul"
+
+$git branch maBranche
+
+$git log 
+$git checkout mabranche
+// nous mets dans la branche
+
+
+///merge
+git chekout brancheprincipale
+git merge mabranche
